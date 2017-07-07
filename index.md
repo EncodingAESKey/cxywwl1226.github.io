@@ -10,6 +10,6 @@
 
 ## ReactProject
 
-[Plane Wars](https://cxywwl1226.github.io/react/#/)
+[React Demo](https://cxywwl1226.github.io/react/#/)
 
 
