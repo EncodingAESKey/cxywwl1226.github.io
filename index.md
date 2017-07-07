@@ -1,7 +1,6 @@
-## Welcome to wangwenli Project display
+## PC-Project
 
 [PC mimile](https://cxywwl1226.github.io/mimile/)
-
 
 
 ## GameProject
