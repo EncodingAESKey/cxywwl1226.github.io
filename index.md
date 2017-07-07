@@ -6,9 +6,9 @@
 
 [Jekyll](https://jekyllrb.com/) 
 
-##GameProject:
-<h1>
-	[editor on GitHub](https://cxywwl1226.github.io/fjdz/)
-</h1>
+## GameProject
+
+[editor on GitHub](https://cxywwl1226.github.io/fjdz/)
+
 
 
