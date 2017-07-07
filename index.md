@@ -1,5 +1,7 @@
 ## Welcome to wangwenli IndexPages
 
+<!DOCTYPE html>
+<html lang="en">
 <head>
 	<meta charset="UTF-8">
 	<title>Document</title>
@@ -14,9 +16,10 @@
 			margin: 0 auto;
 			box-shadow: 0 0 50px black;
 		}
+
 	</style>
 </head>
-
+<body>
 	<h3>
 	
 	[editor on GitHub](https://cxywwl1226.github.io/xhs/)
@@ -26,6 +29,7 @@
 	[Jekyll](https://jekyllrb.com/) 
 	
 	</h3>
-
+</body>
+</html>
 
 
