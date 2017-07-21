@@ -4,7 +4,7 @@
 
 [Touch 校淘网](http://www.5xiaotao.com/wap)
 
-[PC footballfans](https://cxywwl1226.github.io/footballfans/)
+[PC 零食觅密](http://web.alinq.cn/store2/#home_index)
 
 [PC freeProject](https://cxywwl1226.github.io/freeproject/#/)
 
